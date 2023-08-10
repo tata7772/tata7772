@@ -1,3 +1,6 @@
+<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://twitter.com/ohivoo)" target="_blank">Tutsi</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a man of my word</h3>
 - 👋 Hi, I’m @tata7772
 - 👀 Love creating web interfaces
 - 🌱 I’m currently learning new things now
